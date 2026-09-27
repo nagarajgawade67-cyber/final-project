@@ -13,7 +13,7 @@ client-side state management and persistent storage.
 
 Add your deployed URL here:
 
-https://your-project.vercel.app
+ https://novamart247.netlify.app/
 
 ---
 
